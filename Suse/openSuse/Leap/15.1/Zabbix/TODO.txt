@@ -1,0 +1,9 @@
+anzupassende Dateien:
+Server:
+- /etc/zabbix/zabbix_server.conf [Datenbankpasswort setzen]
+- /usr/share/zabbix/conf/zabbix.conf.php [Passwort für die datenbank setzen]
+- /usr/share/zabbix/include/locales.inc.php [Aktivieren/Deaktivieren von Sprachen]
+- /etc/apache2/conf.d/zabbbix.conf (optional, wenn unter htdocs)
+
+Agent:
+- /etc/zabbix/zabbix_agentd.conf [Setzen der Zabbix IP, Hostname, Timeout, RemoteExecution]

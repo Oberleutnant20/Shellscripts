@@ -1,0 +1,3 @@
+mysql -uroot -p zabbix < /usr/share/doc/packages/zabbix50-server/mysql/schema.sql
+mysql -uroot -p zabbix < /usr/share/doc/packages/zabbix50-server/mysql/images.sql
+mysql -uroot -p zabbix < /usr/share/doc/packages/zabbix50-server/mysql/data.sql
