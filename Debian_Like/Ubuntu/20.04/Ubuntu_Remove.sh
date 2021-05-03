@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo apt-get remove firefox thunderbird -y
+sudo apt remove firefox firefox-locale-de firefox-locale-en thunderbird thunderbird-gnome-support thunderbird-locale-de thunderbird-locale-en thunderbird-locale-en-gb thunderbird-locale-en-us -y
